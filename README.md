@@ -1,6 +1,6 @@
-# nanosai
+# nanos.ai
 
-Instructions:
+## Instructions:
 
 unzip nanosai-main.zip
 
