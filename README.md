@@ -14,7 +14,7 @@ source bin/activate   #activate virtual environment
 
 python -m pip install --upgrade pip  #upgrade pip or some packages won’t be downloaded
 
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt   #install required packages
 
 python3 nanosai.py   #run this file to get keywords from nanos.ai
 
