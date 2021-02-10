@@ -1,5 +1,6 @@
 # nanos.ai
 
+### Getting Started
 ```
 unzip nanosai-main.zip
 
