@@ -14,7 +14,7 @@ import numpy as np
 # page1 = requests.get(url).text
 
 #Data already scraped
-# with open("nanos_web.txt",'w',encoding = 'utf-8') as f: # write html to a file
+# with open("nanos_web.txt",'w',encoding = 'utf-8') as f:   # write html to a file
 #     f.write(page1)
 #     f.close()
 
@@ -24,7 +24,7 @@ page2 = f.read()
 f.close()
 
 # nltk.download('stopwords')                      # download stopwords from nltk
-nlp = spacy.load("de_core_news_lg")  #trained pipelines for English
+nlp = spacy.load("de_core_news_lg")               # trained pipelines for German
 
 
 def clean_html(page):
@@ -39,7 +39,7 @@ def str_to_list(text):
     return pre
 
 
-def umlauts(text):
+def umlauts(text):      # Converting umlauts characters to another form 
 
     tempVar = text  # local variable
 
