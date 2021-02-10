@@ -9,7 +9,7 @@ import spacy
 import os
 import numpy as np
 
-# url = "https://nanos.ai/"
+# url = "https://huubsh.com/l/gibson-slash-les-paul-standard-november--3569"
 # Make a GET request to fetch the raw HTML content
 # page1 = requests.get(url).text
 
