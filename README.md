@@ -1,7 +1,8 @@
 # nanos.ai
 
-## Instructions:
+### Instructions:
 
+```
 unzip nanosai-main.zip
 
 Open terminal
@@ -31,3 +32,4 @@ Ex:
 Geben Sie Produkt / Dienstleistung / Schlüsselwort ein : gitarre
 Wichtige Schlüsselwörter: {'guitar', 'saiten', 'gitarre', 'gitarren'}
 
+```
